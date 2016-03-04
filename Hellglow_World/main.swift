@@ -9,6 +9,3 @@
 import Foundation
 
 print("Hellglow World!")
-
-/// Initial commit
-
